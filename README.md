@@ -1,4 +1,4 @@
-# Zorvyn Assignment – Finance Dashboard RBAC Backend
+# Finance Dashboard RBAC Backend
 
 ## Overview
 This project is a backend API for a finance dashboard with role-based access control (RBAC), built using Node.js, Express (ES6 modules), and MongoDB (Mongoose). It supports user authentication (JWT), CRUD operations for financial records, analytics, and is fully documented with Swagger.
