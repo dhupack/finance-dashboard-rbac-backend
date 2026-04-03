@@ -38,6 +38,8 @@ This project is a backend API for a finance dashboard with role-based access con
 
 5. **Access API docs**
    - Swagger UI: [http://localhost:5001/api-docs](http://localhost:5001/api-docs)
+   - Postman Collection (for evaluation):
+     https://github.com/dhupack/finance-dashboard-rbac-backend/blob/main/Finance%20Dashboard%20API.postman_collection.json
 
 ## API Endpoints
 
